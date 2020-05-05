@@ -14,7 +14,6 @@
 | No. |                                                              Problem                                                              |                                                                                  Solution                                                                                 |
 |:---------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 1. | [Pair with Specific Difference](https://www.pramp.com)                                                         |[Pair_with_specific_difference.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/Pair_with_specific_difference.java)                          |
-
 | 2. | [Award Budget Cuts](https://www.pramp.com)                                                         |[AwardBudgetCuts.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/AwardBudgetCuts.java)                          |
 
 | 3. | [Pancake Sort](https://www.pramp.com)                                                         |[PancakeSort.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/PancakeSort.java)                          |
