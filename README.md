@@ -18,7 +18,7 @@
 | 3. | [Pancake Sort](https://www.pramp.com)                                      |   Finding Max + Using Given Info                |[PancakeSort.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/PancakeSort.java)                          |
 | 4. | [Shortest Cell Path](https://www.pramp.com)                                   |       DFS Solution        |[ShortestCellath.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/ShortestCellPath.java)                          |
 | 5. | [Smallest Substring of All Characters](https://www.pramp.com)                   |            Sliding Window                         |[SmallestSubstringOfAllCharacters.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/SmallestSubstringOfAllCharacters.java)                          |
-| 5. | [Balanced Paranthesis ](https://www.pramp.com)                   |            O(n) without Stack.                        |[SmallestSubstringOfAllCharacters.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/SmallestSubstringOfAllCharacters.java)                          |
+| 5. | [Bracket Match ](https://www.pramp.com)                   |            O(n) without Stack.                        |[SmallestSubstringOfAllCharacters.java](https://github.com/Jagrit29/Pramp_Java_Solutions/blob/master/Pramp/Codes/SmallestSubstringOfAllCharacters.java)                          |
 
 
 
