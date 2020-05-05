@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/jagrit_07">
-        <img height=85 src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d11a445720504dfef5a840831903fff8/pramp.png">
+        <img height=85 src="https://wicc.cornell.edu/img/pramp.png">
     </a>
     <br>Some of my Accepted Java Solutions on InterviewBit Platform
 </p>
